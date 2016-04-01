@@ -43,7 +43,7 @@ A collective list of JSON APIs for use in web development.
 
 | API | Description | OAuth |Link |
 |---|---|---|---|
-| Recipe Puppy | No | [Go!](http://www.recipepuppy.com/about/api/)
+| Recipe Puppy | Food | No | [Go!](http://www.recipepuppy.com/about/api/)
 | BreweryDB | Beer | No |[Go!](http://www.brewerydb.com/developers) |
 | LCBO API | Alcohol | No |[Go!](https://lcboapi.com/) |
 
